@@ -1,0 +1,24 @@
+body{
+    background-color: #24353f;
+    
+}
+.container
+{
+background-color: #24353f;
+box-shadow: 15px 15px 40px #000;
+
+
+}
+.container h1{
+    color: #17a2b8;
+}
+.container p{
+    color: #fff;
+    font-size: 1.5rem;
+}
+.container a{
+    text-decoration: none;
+    color: #fff;
+}
+
+
